@@ -1,4 +1,21 @@
-# 💥 Oblivion-Wi-Fi-Aid - The Batch Script That DEFINITELY Won’t Fix Your Wi-Fi (But WILL Let You Vent Your Rage at Windows) 🤬🔥
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-wifi-fixer-windows/main/.github/banner.png" alt="Oblivion WiFi Fixer for Windows — by Oblivion" width="100%"></a>
+</p>
+
+<h1 align="center">Oblivion WiFi Fixer for Windows</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  <img src="https://img.shields.io/badge/License--see--LICENSE-0A0A0A?style=flat-square" alt="License-see-LICENSE">
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Fix Windows Wi-Fi problems fast: reset adapters, flush DNS and repair the network stack in one click. By Oblivion.</b></p>
+
+<p align="center">`windows` · `wifi` · `wifi-fix` · `troubleshooting` · `network-repair` · `dns-flush`</p>
+
+---
 
 **🚨 ABSURDLY-CRITICAL WARNING: READ THIS OR PERISH 🚨**  
 I am NOT, under ANY circumstance, liable if this script nukes your registry, bricks your Wi-Fi, formats C:\, burns your toast, or somehow manages to install Edge 15 times. BACK. UP. EVERYTHING. TWICE. Then sacrifice an old router to the IT gods. You've been warned.
@@ -91,12 +108,28 @@ Come for the memes, stay for the collective pain of debugging Windows.
 
 ---
 
-**Oblivion Development & Hosting**  
+**Oblivion**  
 🔥 Fixing Microsoft’s screw-ups so you don’t have to – with fire, rage, and duct tape.  
 **Linux-first. Windows? Only when absolutely forced at gunpoint.**
 
 ---
 
-*Developed through suffering by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by Oblivion Development & Hosting after 6 long years of trauma.*
+*Developed through suffering by [@ivanbg_2004](https://github.com/ivanbg2004) and remastered by Oblivion after 6 long years of trauma.*
 
 P.S. Let me know if you want to **auto-replace Edge's system sound with a Wilhelm scream** or set the default browser to `/dev/null`.
+
+
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: windows, wifi, wifi-fix, troubleshooting, network-repair, dns-flush, batch-script, sysadmin.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
